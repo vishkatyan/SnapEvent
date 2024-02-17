@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Project Management",
+    "price": "2",
+    "detail": "Learn how to manage your companies projects and take client reviews...",
+    "image": "https://plus.unsplash.com/premium_photo-1661494226626-eaf68064b0cb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Video Editing",
+    "price": "3",
+    "detail": "How to edit videos for your YouTube Channels? Learn and grow with us!",
+    "image": "https://images.unsplash.com/photo-1607968565043-36af90dde238?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Cyber Security - A Challenge",
+    "price": "3",
+    "detail": "How to Protect your system from threats? How cyber criminals steal informations...",
+    "image": "https://plus.unsplash.com/premium_photo-1661759219536-ff2d48de39e0?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Intro to Trading",
+    "price": "Free",
+    "detail": "Learn How to Trade online? How to find out best stocks for future...",
+    "image": "https://images.unsplash.com/photo-1642142783250-d1bef1dafbc9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Build Portfolio",
+    "price": "Free",
+    "detail": "In the challenging era, online portfolio is important to showcase your presence, optimise your profile...",
+    "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Wordpress - Gain Traffic",
+    "price": "7",
+    "detail": "Learn How to gain organic traffic at your wordpress website and grow organically, Learn SEO...",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
